@@ -5,5 +5,6 @@ print ("Hello, my dear friends;")
 print ("Glad to see you;")
 --------------------------
 --------------------------
-Урок 5
+Les 5
+Video for 5 les
 print("Dif for 5 les")
